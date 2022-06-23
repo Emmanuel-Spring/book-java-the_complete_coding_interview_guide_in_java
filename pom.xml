@@ -14,7 +14,7 @@
 	<name>book-java-the_complete_coding_interview_guide_in_java</name>
 	<description>Book The Complete Coding Interview Guide in Java</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
